@@ -19,7 +19,7 @@ This project is a Flask-based web application that automatically decodes Caesar 
 
 
 ## Analysis
-<img src="https://github.com/user-attachments/assets/d217fe10-5c5a-4906-972f-a496759ba08c" width="300"/> <br/> 
+<img src="https://github.com/user-attachments/assets/d217fe10-5c5a-4906-972f-a496759ba08c" width="300"/> 
 <img src="https://github.com/user-attachments/assets/197965fd-bdbb-4c34-8bbe-2885da265f22" width="300"/>
 
 

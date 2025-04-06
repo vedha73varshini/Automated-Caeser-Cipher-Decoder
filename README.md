@@ -14,6 +14,6 @@ This project is a Flask-based web application that automatically decodes Caesar 
 ---
 
 ## Web Interface
-<img src="https://github.com/user-attachments/assets/b0ffa86f-a6d9-4778-8063-c7742fce5005" width="600"/>
+<img src="https://github.com/user-attachments/assets/b0ffa86f-a6d9-4778-8063-c7742fce5005" width="300"/>
 
  

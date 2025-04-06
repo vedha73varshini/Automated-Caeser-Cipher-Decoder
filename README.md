@@ -11,4 +11,9 @@ This project is a Flask-based web application that automatically decodes Caesar 
 - **Web Interface** built using Flask, HTML, CSS, and JavaScript.
 - **Accurate Predictions** based on letter distribution in ciphertext.
 
+---
+
+## Web Interface
+![image](https://github.com/user-attachments/assets/b0ffa86f-a6d9-4778-8063-c7742fce5005)
+
  

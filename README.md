@@ -1,4 +1,4 @@
-# Automated Caesar Cipher Decoder
+# Automated Cipher Decoder
 
 This project is a Flask-based web application that automatically decodes Caesar Cipher-encrypted text using frequency analysis and a machine learning model. It intelligently predicts the shift key using a trained Random Forest Classifier and provides decoded output.
 
